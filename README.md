@@ -1,6 +1,3 @@
-# Instagram
-Instagram homepage User Interface with HTML and CSS
-
 # Instagram Homepage User Interface by HTML & CSS
 <h2> Description </h2>
 Programming and designing the main Instagram interface that is responsive to all screens by HTML & CSS<br>
